@@ -1,7 +1,7 @@
 # Entry 1
-##### X/X/XX
+##### 10/25/26
 
-Text
+#### Choosing my topic
 
 [Next](entry02.md)
 
