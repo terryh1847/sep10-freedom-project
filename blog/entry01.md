@@ -7,9 +7,16 @@ Since I've started getting into art I've been aware of my style and wanting to c
 I've wondered if technology is involved in fashion and how it makes it easier for people who are into fashion or would like to get started. The thought I have got me researching about how technology and fashion connect or how technology makes it easier for those who work in the fashion industry. While I was research I came across some website/ apps that had peaked my interest, one of them is a app that help design clothes that people desires and they have their creative freedom to create what they have in mind and it makes it easy for people to design their clothes with just a single app <a href="https://flyp-fashion-design-studio.updatestar.com/">"FLYP Fashion Design Studio"</a>. Another apps that makes it easier for people to sell and buy other people clothes <a href="https://www.depop.com/">"Depop"</a>, and <a href="https://www.shopify.com/zh">"Shopify"</a>. These apps made it so people in the fashion industry could make what they have in made and sell it to those who are interested in them.
 
 ## Skills
-Some skills that are useful to get into fashion is to have **Creativity** so you can stand out within the fashion industry
-, Second skill that would be useful is **Trend Forecasting** because it would help to know what would be trending so people would be interest in it.
-One of the most important things is having good **Communication Skills** because in order to convince other people to buy your clothes/ designs you'll need to advertise it to others.
+Some skills that are useful to get into fashion that I've discovered are **creativity**, **personal brand development**, **communication skills**.
+
+#### Creativity
+Having creativity in the fashion industry is very important because without it you will never stand out 
+
+
+#### Personal Brand Development
+
+
+#### Communication Skills
 
 
 
