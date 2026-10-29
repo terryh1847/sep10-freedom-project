@@ -10,7 +10,7 @@ I've wondered if technology is involved in fashion and how it makes it easier fo
 Some skills that are useful to get into fashion that I've discovered are **creativity**, **personal brand development**, **communication skills**.
 
 #### Creativity
-Having creativity in the fashion industry is very important because without it you will never stand out 
+Having creativity in the fashion industry is very important because without it you will never stand out. It also bring fresh and unique ideas to the table, creativity also is not confined to fashion, it is woven into every role within the fashion industry. Each role from fashion marketers to buyers and digital experts.
 
 
 #### Personal Brand Development
