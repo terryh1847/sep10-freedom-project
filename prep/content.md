@@ -8,7 +8,7 @@ Topic: **Fashion**
 ## Part A: existing technology
 
 ##### Software
-* Tech
+* 
   * Detail
   * [image text](image URL)
 
