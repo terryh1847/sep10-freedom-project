@@ -12,7 +12,7 @@ Topic: **Fashion**
   * Allows people in fashion to freely design whatever they desire
   * Advanced 3D model design tools and AI
   * Users can browse through a curated selection of premium clothing templates
-  * 
+  * FLYP is suitable for beginners as well as advanced designers, providing tutorials and resources to help users learn the design process
   <img src="https://img-icons.updatestar.com/9335244.64.webp" alt="FLYP - Fashion Design Studio 4.0.9"></img>
 
    
