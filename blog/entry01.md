@@ -14,10 +14,10 @@ Having creativity in the fashion industry is very important because without it y
 
 
 #### Personal Brand Development
-
+Developing a strong personal brand can help you distinguish yourself in the workplace and stand out in an interview process, many  employers often research candidates’ social media profiles, or use those of freelance creative talent as references for their work and approach.
 
 #### Communication Skills
-
+Communication skills are very essential in order to present yourself and your work. If you cannot communicate properly and confidently then no matter how talented or skillful you are, no one will be able to see your potential and appreciate your talent. Therefore, communicating your talent is as essential as your talent itself. Communication helps you in creating unique selling points and strategies for your fashion product
 
 
 [Next](entry02.md)
