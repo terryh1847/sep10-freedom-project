@@ -7,7 +7,7 @@ Since I've started getting into art I've been aware of my style and wanting to c
 I've wondered if technology is involved in fashion and how it makes it easier for people who are into fashion or would like to get started. The thought I have got me researching about how technology and fashion connect or how technology makes it easier for those who work in the fashion industry. While I was research I came across some website/ apps that had peaked my interest, one of them is a app that help design clothes that people desires and they have their creative freedom to create what they have in mind and it makes it easy for people to design their clothes with just a single app <a href="https://flyp-fashion-design-studio.updatestar.com/">"FLYP Fashion Design Studio"</a>. Another apps that makes it easier for people to sell and buy other people clothes <a href="https://www.depop.com/">"Depop"</a>, and <a href="https://www.shopify.com/zh">"Shopify"</a>. These apps made it so people in the fashion industry could make what they have in made and sell it to those who are interested in them.
 
 ## Engineering Design Process
-I'm currently at the stage of 
+I'm currently at the stage of defining the types of clothes I would like to make. Well first I would need to see what is trending lately so I can attract certain type of people with certain style. Next, I would look at inspiration at the designs that people had made before, lastly I would start designing some clothes that I think would people interested in buying.
 
 
 ## Skills
@@ -23,6 +23,8 @@ Developing a strong personal brand can help you distinguish yourself in the work
 #### Communication Skills
 Communication skills are very essential in order to present yourself and your work. If you cannot communicate properly and confidently then no matter how talented or skillful you are, no one will be able to see your potential and appreciate your talent. Therefore, communicating your talent is as essential as your talent itself. Communication helps you in creating unique selling points and strategies for your fashion product
 
+## Next Steps
+My next step is starting to research in the business field or about how to make the clothes, which I am hoping to be entertaining to learn about and fun.
 
 [Next](entry02.md)
 
